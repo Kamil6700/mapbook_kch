@@ -1,0 +1,1 @@
+print('geodezja i geoinfromatyka rządzi111')
