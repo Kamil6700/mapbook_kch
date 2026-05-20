@@ -59,4 +59,3 @@ def get_mapa(users_data:list)->None:
             icon=folium.Icon(icon="cloud"),
         ).add_to(m)
 
-    m.save('mapa.html')
